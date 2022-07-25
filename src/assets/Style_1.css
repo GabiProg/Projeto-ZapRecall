@@ -1,4 +1,4 @@
-.tela1{
+.tela1 {
     background-color: #FB6B6B;
     width: 375px;
     height: 667px;
@@ -8,14 +8,17 @@
     flex-direction: column;
     align-items: center;
 }
-.logo1{
+
+.logo1 {
     padding-top: 148px;
 }
-.logo1 img{
+
+.logo1 img {
     width: 136px;
     height: 162px;
 }
-.appName1{
+
+.appName1 {
     width: 257px;
     height: 59px;
     display: flex;
@@ -23,7 +26,8 @@
     justify-content: center;
     padding-top: 13px;
 }
-.appName1 h1{
+
+.appName1 h1 {
     font-family: 'Righteous';
     font-style: normal;
     font-weight: 400;
@@ -35,7 +39,8 @@
     letter-spacing: -0.012em;
     color: #FFFFFF;
 }
-.button1{
+
+.button1 {
     width: 246px;
     height: 54px;
     background-color: #FFFFFF;
@@ -47,7 +52,8 @@
     align-items: center;
     justify-content: center;
 }
-.button1 p{
+
+.button1 p {
     font-family: 'Recursive';
     font-style: normal;
     font-weight: 400;
